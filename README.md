@@ -28,8 +28,10 @@ THEN the deposits or expenses added while they were offline are added to their t
 - Application Quality
 - Repository Quality
 
-## Deployed Application
+## Deployed Application on Heroku
 
-## Repository URL
+https://sheltered-bastion-05215.herokuapp.com/
+
+## GitHub Repository URL
 
 https://github.com/sariyarawaekklang/pwa-budget-tracker.git
